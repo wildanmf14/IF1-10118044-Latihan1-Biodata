@@ -1,12 +1,12 @@
 package latihan.biodata;
-
-public class biodata {
-	/*
+/*
     Nama        : Wildan Muhammad Fikri
     Kelas       : IF1
     NIM         : 10118044
     Deskripsi   : Menampilkan Biodata
-     */
+   */
+public class biodata {
+
 
     public static void main(String[] args) {
         System.out.println("BIODATA ROCKSTAR" + "\n" + "---------------------------------------");
