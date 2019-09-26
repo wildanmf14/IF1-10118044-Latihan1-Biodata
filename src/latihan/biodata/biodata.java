@@ -4,7 +4,7 @@ public class biodata {
 	/*
     Nama        : Wildan Muhammad Fikri
     Kelas       : IF1
-    NIM         : 10118024
+    NIM         : 10118044
     Deskripsi   : Menampilkan Biodata
      */
 
